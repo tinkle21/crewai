@@ -1,0 +1,2 @@
+crewai-tools
+selenium >=4.21.0
